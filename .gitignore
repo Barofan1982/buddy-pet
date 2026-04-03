@@ -1,0 +1,44 @@
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.spec
+
+# Save files
+.buddy_save.json
+
+# Other projects (not buddy related)
+add_logo.py
+logo_gui.py
+mirror_gui.py
+gemini_imggen.py
+claude-code-main/
+mirror/
+sessions/
+config.json
+
+# Images & outputs
+*.png
+*.webp
+*.svg
+logo.png
+output/
+output_*.png
+output_*.webp
+
+# Temp / logs
+pip_*.txt
+piplist.txt
+
+# VBS launchers for other tools
+run_gui.vbs
+run_gui.bat
+run_logo.bat
+run_gemini.vbs
+run_mirror.vbs
+debug_gemini.vbs
+debug_mirror.vbs
+build_exe.bat
+
+# Docx generator script
+gen_buddy_doc.js
