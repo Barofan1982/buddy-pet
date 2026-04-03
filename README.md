@@ -6,9 +6,9 @@
 
 ## 简介 | Description
 
-**Buddy Pet** 是一款面向年轻女性用户的桌面虚拟宠物养成游戏（类似电子宠物机）。你可以通过输入昵称召唤专属宠物，喂食、抚摸、对话，陪伴它成长，见证你们从陌生人到灵魂伴侣的进化之旅。
+**Buddy Pet** 是一款治愈系桌面虚拟宠物养成游戏（类似电子宠物机）。输入昵称召唤专属宠物，喂食、抚摸、对话，陪伴它成长，见证你们从陌生人到灵魂伴侣的进化之旅。
 
-**Buddy Pet** is a desktop virtual pet raising game (Tamagotchi-style) designed for young female users. Enter a nickname to summon your unique companion, feed it, pet it, chat with it, and watch your bond evolve from strangers to soulmates.
+**Buddy Pet** is a cozy desktop virtual pet raising game (Tamagotchi-style). Enter a nickname to summon your unique companion, feed it, pet it, chat with it, and watch your bond evolve from strangers to soulmates.
 
 ---
 
