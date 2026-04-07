@@ -44,3 +44,13 @@ backups/          # 版本备份
 ## 规则
 - **每次大改前必须备份到 `backups/`**，命名：`buddy_v{N}_{YYYYMMDD}.py`
 - **未经用户明确许可，不得擅自重建 exe**
+
+## Approach
+- Think before acting. Read existing files before writing code.
+- Be concise in output but thorough in reasoning.
+- Prefer editing over rewriting whole files.
+- Do not re-read files you have already read unless the file may have changed.
+- Test your code before declaring done.
+- No sycophantic openers or closing fluff.
+- Keep solutions simple and direct.
+- User instructions always override this file.
